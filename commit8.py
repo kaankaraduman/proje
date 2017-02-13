@@ -1,1 +1,1 @@
-print("DUMLUPINAR ÜNİVERSİTESİ")
+print("PAMUKKALE ÜNİVERSİTESİ")
